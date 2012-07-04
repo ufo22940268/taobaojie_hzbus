@@ -1,0 +1,30 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+MainActivity	src/hongbosb/hzbus/MainActivity.java	/^public class MainActivity extends Activity implements View.OnClickListener$/;"	c
+R	gen/hongbosb/hzbus/R.java	/^public final class R {$/;"	c
+TAG	src/hongbosb/hzbus/MainActivity.java	/^    static public final String TAG = "MainActivity";$/;"	f	class:MainActivity
+WebActivity	src/hongbosb/hzbus/WebActivity.java	/^public class WebActivity extends Activity {$/;"	c
+app_name	gen/hongbosb/hzbus/R.java	/^        public static final int app_name=0x7f030000;$/;"	f	class:R.string
+attr	gen/hongbosb/hzbus/R.java	/^    public static final class attr {$/;"	c	class:R
+bus_line	gen/hongbosb/hzbus/R.java	/^        public static final int bus_line=0x7f040000;$/;"	f	class:R.id
+composeUrl	src/hongbosb/hzbus/MainActivity.java	/^    private String composeUrl(int id) {$/;"	m	class:MainActivity	file:
+getBusId	src/hongbosb/hzbus/MainActivity.java	/^    private int getBusId() {$/;"	m	class:MainActivity	file:
+hongbosb.hzbus	gen/hongbosb/hzbus/R.java	/^package hongbosb.hzbus;$/;"	p
+hongbosb.hzbus	src/hongbosb/hzbus/MainActivity.java	/^package hongbosb.hzbus;$/;"	p
+hongbosb.hzbus	src/hongbosb/hzbus/WebActivity.java	/^package hongbosb.hzbus;$/;"	p
+id	gen/hongbosb/hzbus/R.java	/^    public static final class id {$/;"	c	class:R
+layout	gen/hongbosb/hzbus/R.java	/^    public static final class layout {$/;"	c	class:R
+main	gen/hongbosb/hzbus/R.java	/^        public static final int main=0x7f020000;$/;"	f	class:R.layout
+ok	gen/hongbosb/hzbus/R.java	/^        public static final int ok=0x7f030002;$/;"	f	class:R.string
+ok	gen/hongbosb/hzbus/R.java	/^        public static final int ok=0x7f040001;$/;"	f	class:R.id
+onClick	src/hongbosb/hzbus/MainActivity.java	/^    public void onClick(View v) {$/;"	m	class:MainActivity
+onCreate	src/hongbosb/hzbus/MainActivity.java	/^    public void onCreate(Bundle savedInstanceState)$/;"	m	class:MainActivity
+onCreate	src/hongbosb/hzbus/WebActivity.java	/^    public void onCreate(Bundle savedInstanceState) {$/;"	m	class:WebActivity
+string	gen/hongbosb/hzbus/R.java	/^    public static final class string {$/;"	c	class:R
+title	gen/hongbosb/hzbus/R.java	/^        public static final int title=0x7f030001;$/;"	f	class:R.string
+web	gen/hongbosb/hzbus/R.java	/^        public static final int web=0x7f020001;$/;"	f	class:R.layout
+wv1	gen/hongbosb/hzbus/R.java	/^        public static final int wv1=0x7f040002;$/;"	f	class:R.id
